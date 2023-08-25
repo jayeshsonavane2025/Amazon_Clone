@@ -1,5 +1,5 @@
 ﻿# Amazon_Clone
-# Amazon Clone
+ Visit the live website: [Amezon Clone]( https://amazonclonejayeshsonavane.netlify.app/)
 
 A responsive Amazon clone project built with HTML, CSS, and JavaScript.
 
